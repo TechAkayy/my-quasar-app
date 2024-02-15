@@ -16,7 +16,7 @@
 </script>
 
 <template>
-  <div class="q-pl-lg">
+  <div class="q-pl-xl">
     <!-- <router-view /> -->
     <q-icon name="i-mdi-menu"></q-icon>
   </div>
